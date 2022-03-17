@@ -7,3 +7,4 @@ Use the scroll wheel to zoom.
 Have fun :D
 
 Made with Processing3 (www.processing.org)
+![Mandelbrot](https://github.com/JulianBohne/Mandelbrot/blob/master/Example.png)
